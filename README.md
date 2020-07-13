@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a [Flask-based RSS reader](https://github.com/colby-reyes/flask-rssReader)
 - 🌱 I’m currently learning [Flask](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world), [Math for Data Science](mml-book.github.io), and [all about Data Science techniques](https://towardsdatascience.com)
 
-### Check out my [portfolio](colby-reyes.github.io)!
+### Check out my [portfolio](https://colby-reyes.github.io/)!
 
 
 <!--
